@@ -1,0 +1,5 @@
+print('Паша' > 'Маша')
+print('Маша' > 'каша')
+print(ord('M'))
+print(ord('m'))
+print(ord('k'))
